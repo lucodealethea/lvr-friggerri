@@ -9,7 +9,7 @@ A collection of LaTeX Resume templates:
 ## How to install
 Download the zip from https://github.com/lucodealethea/lvr-friggerri or clone it in a subfolder:
 ```sh
-git clone https://github.com/lucodealethea;lvr-friggerri.git
+git clone https://github.com/lucodealethea/lvr-friggerri.git
 ```
 
 ## License
