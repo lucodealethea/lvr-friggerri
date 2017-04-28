@@ -4,7 +4,7 @@ Curriculum Vitae - models
 
 A collection of LaTeX Resume templates:
 - One Pager using tikz library ie. Infographic type
-- Friggerri type (still missing)
+- Friggerri type (extended with Tables and )
 
 ## How to install
 Download the zip from https://github.com/lucodealethea/lvr-friggerri or clone it in a subfolder:
@@ -40,5 +40,7 @@ For English, at lines 109-110 use
 \excludecomment{pt} % Portuguese language
 Also,
 
+## To-do
 
+* Would be nice to add Digital Proficiency as per Europass CV.
 
