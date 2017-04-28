@@ -4,7 +4,7 @@ Curriculum Vitae - models
 
 A collection of LaTeX Resume templates:
 - One Pager using tikz library ie. Infographic type
-- Friggerri type
+- Friggerri type (still missing)
 
 ## How to install
 Download the zip from https://github.com/lucodealethea/lvr-friggerri or clone it in a subfolder:
@@ -14,6 +14,8 @@ git clone https://github.com/lucodealethea/lvr-friggerri.git
 To compile:
 
 xelatex main.tex -halt-on-error -file-line-error -no-pdf
+
+Will return main.pdf (to compare with main.pdf in this project)
 
 ## License
 These are derived works under the terms of the LaTeX project public license (LPPL). 
