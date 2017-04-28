@@ -17,6 +17,9 @@ xelatex main.tex -halt-on-error -file-line-error -no-pdf
 
 Will return main.pdf (to compare with main.pdf in this project)
 
+xelatex lvr-resume.tex -halt-on-error -file-line-error -no-pdf
+Will return lvr-resume.pdf.
+
 ## License
 These are derived works under the terms of the LaTeX project public license (LPPL). 
 One is based on version 2015-03-10 of europecv.cls which is part of the europecv package by Nicola Vitacolonna. 
