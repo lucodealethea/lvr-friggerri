@@ -11,6 +11,9 @@ Download the zip from https://github.com/lucodealethea/lvr-friggerri or clone it
 ```sh
 git clone https://github.com/lucodealethea/lvr-friggerri.git
 ```
+To compile:
+
+xelatex main.tex -halt-on-error -file-line-error -no-pdf
 
 ## License
 These are derived works under the terms of the LaTeX project public license (LPPL). 
